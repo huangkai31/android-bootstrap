@@ -1,9 +1,8 @@
-
 package com.donnfelker.android.bootstrap.ui;
 
 import android.view.LayoutInflater;
 
-import com.actionbarsherlock.R.color;
+import com.donnfelker.android.bootstrap.R.color;
 import com.github.kevinsawicki.wishlist.SingleTypeAdapter;
 import com.donnfelker.android.bootstrap.R.drawable;
 
